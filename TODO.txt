@@ -1,0 +1,2 @@
+MongoDB setted up:
+  1- Check why post id is not stored in front-end when added.
